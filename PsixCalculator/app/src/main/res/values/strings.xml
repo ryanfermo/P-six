@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">P-six</string>
+    <string-array name="unit">
+        <item>unit</item>
+        <item>cm</item>
+        <item>m</item>
+        <item>km</item>
+    </string-array>
+    <string-array name="unit1">
+        <item>unit</item>
+        <item>sec</item>
+        <item>min</item>
+        <item>hr</item>
+    </string-array>
+    <string-array name="unit3">
+        <item>unit</item>
+        <item>g</item>
+        <item>kg</item>
+        <item>oz</item>
+        <item>lb</item>
+    </string-array>
+    <string-array name="unit4">
+        <item>unit</item>
+        <item>ml</item>
+        <item>cm³</item>
+        <item>m³</item>
+        <item>l</item>
+    </string-array>
+    <string-array name="unit5">
+        <item>unit</item>
+        <item>N</item>
+        <item>MN</item>
+        <item>g</item>
+        <item>kg</item>
+        <item>oz</item>
+        <item>lb</item>
+    </string-array>
+    <string-array name="unit6">
+        <item>unit</item>
+        <item>cm/s²</item>
+        <item>m/s²</item>
+        <item>ft/s²</item>
+    </string-array>
+    <string-array name="unit7">
+        <item>unit</item>
+        <item>volt</item>
+        <item>amp</item>
+        <item>ohm</item>
+    </string-array>
+    <string-array name="unit8">
+        <item>unit</item>
+        <item>amp</item>
+        <item>volt</item>
+        <item>ohm</item>
+    </string-array>
+    <string-array name="unit9">
+        <item>unit</item>
+        <item>m/s</item>
+        <item>Hz</item>
+        <item>cm</item>
+        <item>m</item>
+        <item>km</item>
+    </string-array>
+    <string-array name="unit10">
+        <item>unit</item>
+        <item>cm</item>
+        <item>m</item>
+        <item>km</item>
+        <item>m/s</item>
+        <item>Hz</item>
+    </string-array>
+
+    <string-array name="unit11">
+        <item>unit</item>
+        <item>mg</item>
+        <item>cg</item>
+        <item>dg</item>
+        <item>g</item>
+        <item>hg</item>
+        <item>kg</item>
+        <item>m/s</item>
+    </string-array>
+    <string-array name="unit12">
+    <item>unit</item>
+    <item>m/s</item>
+    <item>mg</item>
+    <item>cg</item>
+    <item>dg</item>
+    <item>g</item>
+    <item>hg</item>
+    <item>kg</item>
+</string-array>
+
+    <string-array name="speed">
+        <item>unit</item>
+        <item>km/sec</item>
+        <item>km/min</item>
+        <item>km/hr</item>
+    </string-array>
+
+    <string-array name="den">
+        <item>unit</item>
+        <item>kg/cm³</item>
+        <item>kg/ml</item>
+        <item>kg/m³</item>
+        <item>kg/l</item>
+    </string-array>
+
+    <string-array name="newton">
+        <item>unit</item>
+        <item>Newton</item>
+        <item>pdl</item>
+        <item>lbf</item>
+    </string-array>
+</resources>
